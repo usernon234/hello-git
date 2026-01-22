@@ -1,2 +1,1 @@
-hello-git 
-hello thai fakkk
+no more git only ai 
